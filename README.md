@@ -1,4 +1,4 @@
-# 🌐 CRUD Distributed Architecture — Opção B
+# 🌐 CRUD Arquitetura Distribuída
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -9,7 +9,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto foi desenvolvido como requisito prático para a disciplina de **Sistemas Distribuídos e Redes**. O objetivo principal foi desestruturar um sistema monolítico clássico (CRUD) em uma **arquitetura distribuída multi-servidores (Opção B - Intermediária)**, onde as camadas de apresentação, negócio e persistência rodam de forma totalmente isolada em nós distintos da rede.
+Este projeto foi desenvolvido como requisito prático para a disciplina de **Sistemas Distribuídos e Redes**. O objetivo principal foi desestruturar um sistema monolítico clássico (CRUD) onde as camadas de apresentação, negócio e persistência rodam de forma totalmente isolada em nós distintos da rede.
 
 A aplicação simula um **Painel de Controle de Estoque** com comunicação assíncrona, tratamento rigoroso de CORS (Cross-Origin Resource Sharing) e tolerância a falhas local.
 
