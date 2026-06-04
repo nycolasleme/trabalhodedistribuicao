@@ -39,13 +39,3 @@ A separação dos servidores foi implementada utilizando portas lógicas distint
 * **Comunicação por Mensageria HTTP:** Utilização dos verbos normatizados `GET` (leitura) e `POST` (escrita) com payloads estruturados em formato JSON.
 
 ---
-
-## 🚀 Como Executar a Solução
-
-### Pré-requisitos
-* Ter o [Node.js](https://nodejs.org/) instalado na máquina.
-
-### 1. Clonar e Organizar
-```bash
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-cd SEU_REPOSITORIO
